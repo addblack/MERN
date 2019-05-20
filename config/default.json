@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://alexden:website1432@cluster0-kjddk.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://alexden:website1432@cluster0-kjddk.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c4144ed9759c741af2bc",
+  "githubSecret": "f9e92a207c7b213cb3f0cea71c6f1ad1262fe4cc"
 }
